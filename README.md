@@ -1,6 +1,8 @@
 # Easy CSS Button Hover Effects
 Eye Catching CSS button hover effects using pseudo elements. Can be used on submit buttons (using `BUTTON type="submit"`) or any container elements.
 
+![Simple CSS Button Hover Effects](css-submit-button-hover-effects.jpg?raw=true "Simple CSS Button Hover Effects")
+
 ## Usage ##
 
 Include the .css file in the `HEAD` of your page. Then, create a button or link, and add the class `buttonfx` to create a basic "Slide Down" effect:
