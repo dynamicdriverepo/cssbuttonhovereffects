@@ -1,5 +1,5 @@
 # Easy CSS Button Hover Effects
-Eye Catching CSS button hover effects using pseudo elements. Can be used on submit buttons (using `BUTTON type="submit"`) or any container elements.
+Eye Catching [CSS button hover effects](http://blog.dynamicdrive.com/popular-css-button-hover-effects-explained/) using pseudo elements. Can be used on submit buttons (using `BUTTON type="submit"`) or any container elements.
 
 ![Simple CSS Button Hover Effects](css-submit-button-hover-effects.jpg?raw=true "Simple CSS Button Hover Effects")
 
